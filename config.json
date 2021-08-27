@@ -1,0 +1,12 @@
+
+{
+    "mqttHost":"",
+    "mqttPort":1883,
+    "mqttUser":"RPI-001",
+    "mqttPass":"xxxxx",
+    "mqttClientID":"RPI-001",
+    "mqttTopPUB":"DEV",
+    "mqttTopSUB":"DEV",
+    "serialBC95GPort":"/dev/ttyAMA1",
+    "serialBC95GBaudrate":9600
+}
